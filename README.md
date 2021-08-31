@@ -1,5 +1,7 @@
 # vue-admin
 
+模仿 **[vue-vben-admin](https://github.com/anncwb/vue-vben-admin)**
+
 ## Project setup
 ```
 npm install

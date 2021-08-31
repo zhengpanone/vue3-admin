@@ -1,10 +1,15 @@
 {
   "compilerOptions": {
+    // 编译输出目标 ES 版本
     "target": "esnext",
+    // 采用的模块系统
     "module": "esnext",
+    // 以严格模式解析
     "strict": true,
     "jsx": "preserve",
+    // 从 tslib 导入外部帮助库: 比如__extends，__rest等
     "importHelpers": true,
+    // 如何处理模块
     "moduleResolution": "node",
     "skipLibCheck": true,
     "esModuleInterop": true,
